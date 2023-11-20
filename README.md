@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mghiasvandm
-- 👀 I’m interested in AI & NLP Research and have the privilege to work under supervision of two professors @ AUT despite only being a 2nd year distinguished undergraduate student. My programming journey has been started from 5 years ago and after being a full stack web developer, I'm enthusiast to research about the topics related to large language models tasks.
+- 👀 I am passionate about AI and NLP research and am fortunate to be working under the supervision of two professors at AUT, despite being only a second-year distinguished undergraduate student. My programming journey began five years ago, and after gaining experience as a full-stack web developer, I am eager to delve into research on topics related to large language models tasks.
 
 <!---
 mghiasvandm/mghiasvandm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
