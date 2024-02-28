@@ -1,8 +1,11 @@
 ## Mohammad Ghiasvand Mohammadkhani (محمد غیاثوند محمدخانی)
 
 #### Info about me...
-Hello! I am a M.S. Student at the Language & Knowledge Lab at KAIST, advised by Minjoon Seo.<br>
+🎓 Hello! I am a B.S. Student at the Amirkabir University of Technology.<br>
 <br>
-My primary research focus lies in the intersection of natural language generation (NLG) and establishing a science of language model behaviors.<br> Concretely, my research interests include: (i) developing fine-grained evaluation frameworks that systematically identify what specific capabilities language models lack and (ii) exploring the role of synthetic data to induce desired abilities into language models for further improvement.<br>
+<pre>🔭 My very initial research project was about Aspect-Based Sentiment Analysis (ABSA) which I've been able to publish a state-of-the-art (SOTA) paper to Transactions of the Association for Computational Linguistics (TACL) journal and the project was completed I was only a 3rd-semester bachelor student which is undone before in the world. 
+But Currenlty, my primary research focus lies in the Retrieval-Augmented Language Models (RALMs).
+🏃Avid of Soccer Goalkeeping
 <br>
-Reach out to me via email (seungone@kaist.ac.kr) if you have any questions, or would like to collaborate with me!<br>
+💬 Reach out to me via email (mghiasvandm1@gmail.com) if you have any questions about my previous works, or would like to collaborate with me!<br>
+</pre>
