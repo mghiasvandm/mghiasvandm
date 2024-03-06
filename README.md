@@ -5,7 +5,7 @@
 <ul>
 <li> (i) <i>Fine-grained Evaluation & Instruction Tuning</i><br>
 <li> (ii) <i>Retrieval-Augmented Language Models</i> (REALMs)
-<li> (iii) <i><b>M</b>ultilingual & <b>M</b>ultimodal <b>AI</b></i><br>
+<li> (iii) <i>Multilingual & Multimodal AI</i><br>
 <li> (iv) <i>Exploration of Alignment & Synthetic Data Role</i>
 </ul>
 <br>
