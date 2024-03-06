@@ -8,7 +8,7 @@
 <li> (iii) <i><b>M</b>ultilingual & <b>M</b>ultimodal <b>AI</b></i><br>
 <li> (iv) <i>Exploration of Alignment & Synthetic Data Role</i>
 </ul>
-<br><br>
+<br>
 <li> ⚽ Avid of <i>Soccer Goalkeeping</i>.<br><br>
 <li> 💬 Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
 </ul>
