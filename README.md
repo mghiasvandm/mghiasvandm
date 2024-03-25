@@ -10,5 +10,5 @@
 </ul>
 <br>
 <li> ⚽ Avid of <i>Soccer Goalkeeping</i>.<br><br>
-<li> 💬 Email and GitHub are two platforms to which I pay a lot of attention, and I don't use any kind of social media. Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
+<li> 💬 Email and GitHub are two platforms to which I pay a attention, and I don't use any kind of social media. Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
 </ul>
