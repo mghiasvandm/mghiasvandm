@@ -1,4 +1,4 @@
-### Hi there, this is Mohammad!👋 | ![GitHub User's stars](https://img.shields.io/github/stars/mghiasvandm) | [![Total Forks](https://img.shields.io/github/forks/mghiasvandm?style=social)](https://github.com/mghiasvandm)
+### Hi there, this is Mohammad!👋 | ![GitHub User's stars](https://img.shields.io/github/stars/mghiasvandm)
 
 
 <ul>
