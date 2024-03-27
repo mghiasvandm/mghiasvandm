@@ -1,4 +1,5 @@
-### Hi there, this is Mohammad!👋 | [![Total Stars](https://img.shields.io/github/stars/mghiasvandm?style=social)](https://github.com/mghiasvandm)
+### Hi there, this is Mohammad!👋 | [![Total Stars](https://img.shields.io/github/stars/mghiasvandm?style=social)](https://github.com/mghiasvandm) | [![Total Forks](https://img.shields.io/github/forks/mghiasvandm?style=social)](https://github.com/mghiasvandm)
+
 
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i>.<br><br>
