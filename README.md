@@ -1,4 +1,4 @@
-### Hi there, this is Mohammad!👋 | ![GitHub User's stars](https://img.shields.io/github/stars/mghiasvandm?style=for-the-badge)
+### Hi there, this is Mohammad!👋 | ![GitHub User's stars](https://img.shields.io/github/stars/mghiasvandm?style=flat)
 
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i>.<br><br>
