@@ -1,4 +1,4 @@
-### Hi there, this is Mohammad!👋 | [](https://img.shields.io/github/stars/mghiasvandm?style=for-the-badge)
+### Hi there, this is Mohammad!👋 | ![](https://img.shields.io/github/stars/mghiasvandm?style=for-the-badge)
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i>.<br><br>
 <li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis (ABSA), during which I published a state-of-the-art (SOTA) paper titled <i><b>x</b>xxxx <b>xx</b>xxx <b>x</b>xxxxxx <b>x</b>xxxx</i> (xxxxx) in xxxxxx as a <b><i>3rd-semester bachelor student</i></b>, marking a significant feat possibly undone in the world. Currently, my focus is on <b>L</b>arge <b>L</b>anguage <b>M</b>odels (LLMs) by maintaining equal research interests in the areas below:<br>
