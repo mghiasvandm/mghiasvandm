@@ -11,7 +11,7 @@
 </ul>
 <br>
 <li> ⚽ Avid of <i>Soccer Goalkeeping</i>.<br><br>
-<li> 👨‍💻 Former Full-stack web developer using Django and Vue.js.<br><br>
+<li> 👨‍💻 Former <i>Full-stack web developer</i> using Django and Vue.js.<br><br>
 <li> 📃 A few of my highlighted certificates include the <a href="https://www.coursera.org/account/accomplishments/specialization/P7GLFDMUDGTR" style="text-underline: none;"><i>Natural Language Processing (NLP) specialization</i></a> certificate, the <a href="https://www.coursera.org/account/accomplishments/specialization/29TBQTDYAHBQ" style="text-underline: none;"><i>Machine Learning (ML) specialization</i></a> certificate, and my <a href="https://www.dropbox.com/scl/fi/0kcyhp6r5mg2o6f5avk0k/excellence-certificate.pdf?rlkey=754dz9ysuxduj7bxe8r22u9e0&dl=0" style="text-underline: none;"><i>Excellence</i></a> certificate.<br><br>
 <li> 💬 <b>Email</b> and <b>GitHub</b> are two platforms to which I pay attention, and I don't use any kind of social media. Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
 </ul>
