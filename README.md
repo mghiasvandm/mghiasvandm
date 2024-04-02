@@ -2,7 +2,7 @@
 
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of 3.81 out of 4.<br><br>
-<li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis (ABSA), during which I published a state-of-the-art (SOTA) paper titled <i><b>x</b>xxxx <b>xx</b>xxx <b>x</b>xxxxxx <b>x</b>xxxx</i> (xxxxx) in xxxxxx as a <b><i>3rd-semester bachelor student</i></b>, marking a significant feat possibly undone in the world. Currently, my focus is on <b>L</b>arge <b>L</b>anguage <b>M</b>odels (LLMs) by maintaining equal research interests in the areas below:<br>
+<li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis (ABSA), during which I published a state-of-the-art (SOTA) paper titled <i><b>x</b>xxxx <b>xx</b>xxx <b>x</b>xxxxxx <b>x</b>xxxx</i> (xxxxx) in xxxxxx as a <b><i>3rd-semester bachelor student</i></b>, marking a significant feat possibly undone in the world. Currently, my focus is on Large Language Models (LLMs) by maintaining equal research interests in the areas below:<br>
 <ul>
 <li> (i) <i>Fine-grained Evaluation & Instruction Tuning</i><br>
 <li> (ii) <i><b>Re</b>trieval-<b>A</b>ugmented <b>L</b>anguage <b>M</b>odels (REALMs)</i>
