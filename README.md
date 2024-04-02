@@ -1,7 +1,7 @@
 ### Hi there, this is Mohammad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![GitHub User's stars](https://img.shields.io/github/stars/mghiasvandm?style=plastic)
 
 <ul>
-<li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of 3.81 out of 4.<br><br>
+<li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of <b>3.81</b> out of 4.<br><br>
 <li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis (ABSA), during which I published a state-of-the-art (SOTA) paper titled <i><b>x</b>xxxx <b>xx</b>xxx <b>x</b>xxxxxx <b>x</b>xxxx</i> (xxxxx) in xxxxxx as a <b><i>3rd-semester bachelor student</i></b>, marking a significant feat possibly undone in the world. Currently, my focus is on Large Language Models (LLMs) by maintaining equal research interests in the areas below:<br>
 <ul>
 <li> (i) <i>Fine-grained Evaluation & Instruction Tuning</i><br>
