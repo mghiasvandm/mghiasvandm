@@ -6,7 +6,7 @@
 <ul>
 <li> (i) <i>Fine-grained Evaluation & Instruction Tuning</i><br>
 <li> (ii) <i><b>Re</b>trieval-<b>A</b>ugmented <b>L</b>anguage <b>M</b>odels (REALMs)</i>
-<li> (iii) <i>Multilingual & Multimodal AI</i><br>
+<!-- <li> (iii) <i>Multilingual & Multimodal AI</i><br> -->
 <li> (iv) <i>Exploration of Alignment & Synthetic Data Role</i>
 </ul>
 <br>
