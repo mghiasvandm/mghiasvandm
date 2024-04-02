@@ -12,6 +12,6 @@
 <br>
 <li> ⚽ Avid of <i>Soccer Goalkeeping</i>.<br><br>
 <li> 👨‍💻 Former Full-stack web developer using Django and Vue.js.<br><br>
-<li> 📃 A few of my highlighted certificates include the Natural Language Processing (NLP) specialization certificate, the Machine Learning (ML) specialization certificate, and my Excellence certificate.<br><br>
+<li> 📃 A few of my highlighted certificates include the <a href="https://www.dropbox.com/scl/fi/yuuupamrnmz4402yq3s1p/NLP-specialization.pdf?rlkey=5f3q7hd9xnlqw136n3my9x9yc&dl=0">Natural Language Processing (NLP) specialization</a> certificate, the <a href="https://www.dropbox.com/scl/fi/2itut9td9kavpqzu1q8k1/ML-specialization.pdf?rlkey=k7db5t5vfi74dl1txxuxe3sy1&dl=0">Machine Learning (ML) specialization</a> certificate, and my <a href="https://www.dropbox.com/scl/fi/0kcyhp6r5mg2o6f5avk0k/excellence-certificate.pdf?rlkey=754dz9ysuxduj7bxe8r22u9e0&dl=0">Excellence</a> certificate.<br><br>
 <li> 💬 <b>Email</b> and <b>GitHub</b> are two platforms to which I pay attention, and I don't use any kind of social media. Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
 </ul>
