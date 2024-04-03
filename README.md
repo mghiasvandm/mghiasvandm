@@ -5,7 +5,7 @@
 <li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis (ABSA), during which I published a state-of-the-art (SOTA) paper titled <i><b>x</b>xxxx <b>xx</b>xxx <b>x</b>xxxxxx <b>x</b>xxxx</i> (xxxxx) in xxxxxx as a <b><i>3rd-semester bachelor student</i></b>, marking a significant feat possibly undone in the world. Currently, my focus is on Large Language Models (LLMs) by maintaining equal research interests in the areas below:<br>
 <ul>
 <li> (i) <i>Fine-grained Evaluation & Instruction Tuning</i><br>
-<li> (ii) <i><b>Re</b>trieval-<b>A</b>ugmented <b>L</b>anguage <b>M</b>odels (REALMs)</i>
+<li> (ii) <i>Retrieval-Augmented Language Models (REALMs)</i>
 <li> (iii) <i>Multilingual & Multimodal AI</i><br>
 <!-- <li> (iv) <i>Exploration of Alignment & Synthetic Data Role</i> -->
 </ul>
