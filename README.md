@@ -4,7 +4,7 @@
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of <b>3.81</b> out of 4.<br><br>
 <li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis (ABSA), during which I published a state-of-the-art (SOTA) paper titled <i><b>x</b>xxxx <b>xx</b>xxx <b>x</b>xxxxxx <b>x</b>xxxx</i> (xxxxx) in xxxxxx as a <b><i>3rd-semester bachelor student</i></b>, marking a significant feat possibly unmatched in the world. Recently, my research has focused on working with Large Language Models (LLMs) in the areas below:<br>
 <ul>
-<li> (i) <i>Reasoning Capabilities of LLMs</i><br>
+<li> (i) <i>Reasoning capabilities of LLMs</i><br>
 <li> (ii) <i>Retrieval-augmented LMs</i>
 <li> (iii) <i>Instruction following abilities of LLMs</i>
 </ul>
