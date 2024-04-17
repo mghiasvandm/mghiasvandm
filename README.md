@@ -6,7 +6,6 @@
 <ul>
 <li> (i) <i>Reasoning capabilities of LLMs</i><br>
 <li> (ii) <i>Instruction following abilities of LLMs</i>
-<li> (iii) <i>Retrieval-augmented LMs</i>
 </ul>
 <br>
 <li> 👨‍💻 Former <i>Full-stack web developer</i> using Django and Vue.js.<br><br>
