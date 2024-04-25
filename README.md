@@ -2,7 +2,7 @@
 
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of <b>3.81</b> out of 4.<br><br>
-<li> 🔭 In my first research project, I completed a SOTA paper titled <i><b>E</b>lement <b>to</b> <b>T</b>uple <b>P</b>rompting</i> (E2TP) as a <b><i>3rd-semester undergraduate student</i></b>, marking a notable feat virtually unmatched before me in the world. Lately, my research is focused on LLMs in the following areas:<br>
+<li> 🔭 In my first research project, I completed a SOTA paper titled <i><b>E</b>lement <b>to</b> <b>T</b>uple <b>P</b>rompting</i> (E2TP) as a <b><i>3rd-semester undergraduate student</i></b>, marking a notable feat virtually unmatched before me in the world. Recently, my research has been focused on the following areas:<br>
 <ul>
 <li> (i) <i>Reasoning capabilities of LLMs</i><br>
 <li> (ii) <i>Instruction following abilities of LLMs</i>
