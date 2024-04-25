@@ -2,7 +2,7 @@
 
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of <b>3.81</b> out of 4.<br><br>
-<li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis, during which I published a state-of-the-art paper titled <i><b>x</b>xxxxxxxx <b>xxxx</b> <b>x</b>x <b>x</b>xxxxxxx</i> (xxxxxx) in the xx journal as a <b><i>third-semester undergraduate student</i></b>, marking a significant feat virtually unmatched before me in the world. Recently, my research has focused on working with Large Language Models in the following key areas:<br>
+<li> 🔭 My first research project centered on Aspect-Based Sentiment Analysis, during which I completed a state-of-the-art paper titled <i><b>x</b>xxxxxxxx <b>xxxx</b> <b>x</b>x <b>x</b>xxxxxxx</i> (xxxxxx) as a <b><i>third-semester undergraduate student</i></b>, marking a significant achievement virtually unmatched before me in the world. Recently, my research has focused on working with Large Language Models in the following key areas:<br>
 <ul>
 <li> (i) <i>Reasoning capabilities of LLMs</i><br>
 <li> (ii) <i>Instruction following abilities of LLMs</i>
