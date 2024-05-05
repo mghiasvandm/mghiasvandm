@@ -2,7 +2,7 @@
 
 <ul>
 <li> 🎓 B.S. Student at <i>Amirkabir University of Technology (AUT)</i> with a GPA of <b>3.81</b> out of 4.<br><br>
-<li> 🔭 In my first research paper, I done a state-of-the-art work titled <i><b>x</b>xxxxxxxx <b>xxxx</b> <b>x</b>x <b>x</b>xxxxxxx</i> (xxxxxx) as a <b><i>3rd-semester undergraduate</i></b> student, marking a notable feat virtually unmatched before me in the world. Recently, my research has focused on the following key areas:<br>
+<li> 🔭 In my first research paper, I done a SOTA work titled <i><b>x</b>xxxxxxxx <b>xxxx</b> <b>x</b>x <b>x</b>xxxxxxx</i> (xxxxxx) as a <b><i>third-semester undergraduate</i></b> student, marking a notable feat virtually unmatched before me in the world. Recently, my research has focused on the following key areas:<br>
 <ul>
 <li> (i) <i>Reasoning capabilities of LLMs</i><br>
 <li> (ii) <i>Instruction following abilities of LLMs</i>
