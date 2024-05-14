@@ -6,9 +6,10 @@
 <ul>
 <li> (i) <i>Reasoning capabilities of LLMs</i><br>
 <li> (ii) <i>Instruction following abilities of LLMs</i>
+<li> (ii) <i>Retrieval-augmented LMs</i>
 </ul>
 <br>
 <li> 👨‍💻 Former <i>Full-stack web developer</i> using Django and Vue.js.<br><br>
 <li> 📃 A few of my highlighted certificates include the <i>Natural Language Processing <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/P7GLFDMUDGTR">(NLP) specialization</i></a> certificate, the <i>Machine Learning <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/29TBQTDYAHBQ">(ML) specialization</i></a> certificate, and my <a href="https://www.dropbox.com/scl/fi/0kcyhp6r5mg2o6f5avk0k/excellence-certificate.pdf?rlkey=754dz9ysuxduj7bxe8r22u9e0&dl=0"><i>Excellence</i></a> certificate.<br><br>
-<li> 💬 <b>Email</b> and <b>GitHub</b> are two platforms to which I pay attention, and I don't use any kind of social media. Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
+<li> 💬 I pay attention only to <b>email</b> as my primary platform, and I don't use any kind of social media. Reach out to me via <a href="mailto:mghiasvandm1@gmail.com"><i> email</i></a> if you have any questions, or would like to collaborate with me!
 </ul>
