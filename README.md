@@ -5,7 +5,7 @@
 <li> 🔭 In my first research paper, I have done a SOTA work titled <i><b>E</b>lement <b>to</b> <b>T</b>uple <b>P</b>rompting</i> (<a href="https://arxiv.org/pdf/2405.06454">E2TP</a>) as a <b><i>third-semester undergraduate</i></b> student, marking a notable feat virtually unmatched before me in the world. Recently, my research has focused on the following key areas:<br>
 <ul>
 <li> (i) <i>Using Synthetic Data to Improve Instruction-Tuning and Reasoning</i><br>
-<li> (ii) <i>Retrieval-augmented LMs/LLM evaluation</i>
+<li> (ii) <i>Retrieval Augmented Generation</i>
 </ul>
 <br>
 <li> 👨‍💻 Former <i>Full-stack web developer</i> using Django and Vue.js.<br><br>
