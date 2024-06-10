@@ -6,7 +6,7 @@
 <ul>
 <li><i>Improving LLM Reasoning with Synthetic Data</i><br>
 <li><i>Enhancing Zero-Shot Knowledge-Augmented Generation</i><br>
-<li><i>Developing LLM-as-a-Judge-Based Frameworks</i><br><br>
+<li><i>Developing LLM-as-a-Judge-Based Evaluation Frameworks</i><br><br>
 </ul>
 <li> 📃 Feel free to review my <a href="#"><i>CV</i></a>.<br><br>
 <li> 👨‍💻 Former <i>Full-stack web developer</i> using Django and Vue.js.<br><br>
